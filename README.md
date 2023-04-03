@@ -7,7 +7,7 @@
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/abdel-karim-mounkambou-b68bb7160/) and on [Twitter](https://twitter.com/AMounkambou)
 - ⚡ Fact about me: Dedicated Software Engineer with experience in achieving tangible results and cross-team collaboration. Proactive and excited to partner with like-minded individuals to achieve goals.
 
-[![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=mounkambou-iut-cse-4301&count_private=true&show_icons=true&theme=radical)](https://github.com/mounkambou-iut-cse-4301/github-readme-stats)
+<!--[![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=mounkambou-iut-cse-4301&count_private=true&show_icons=true&theme=radical)](https://github.com/mounkambou-iut-cse-4301/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounkambou-iut-cse-4301&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/mounkambou-iut-cse-4301/github-readme-stats)
 
 <!--
